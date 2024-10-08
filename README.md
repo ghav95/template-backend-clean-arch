@@ -7,20 +7,18 @@ The objective is to build a robust and scalable back-end template using Clean Ar
 ## 🔑 Core
 
 - **Clean Architecture**
-- **CQRS**&#x20;
+- **CQRS**
 - **MediatoR**
 - **OpenAPI**
-- **EF Core**&#x20;
-- **Docker**&#x20;
+- **EF Core**
+- **Docker**
 
 ## 🛠️ Technologies Used
 
 - **.NET Core 8**
 - **MediatoR**
 - **EF Core**
-- &#x20;
-
-  **Docker**
+- **Docker**
 
 ## 🏗️ Project Structure
 
